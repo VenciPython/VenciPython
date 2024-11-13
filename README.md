@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Languages and Tools:
+!JavaScript
+!HTML5
+!CSS3
+!Python
+
 <!--
 **VenciPython/VenciPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
