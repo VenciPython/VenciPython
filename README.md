@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## My skills
+[![C](https://img.shields.io/badge/)](https://developer.mozilla.org/en-US/docs/Web/C)
+[![Git](https://img.shields.io/badge/)](https://developer.mozilla.org/en-US/docs/Web/Git)
+[![HTML5](https://img.shields.io/badge/)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Linux](https://img.shields.io/badge/)](https://developer.mozilla.org/en-US/docs/Web/Linux)
+[![PHP](https://img.shields.io/badge/)](https://developer.mozilla.org/en-US/docs/Web/PHP)
 
 
 <!--
