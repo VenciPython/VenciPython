@@ -1,9 +1,16 @@
 ## Hi there 👋
 
-## Languages and Tools:
-![JavaScript]: (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black): Това е URL адресът на изображението, което ще се показва.
+
 
 <!--
+## Hi there 👋
+
+## Languages and Tools:
+!JavaScript
+!HTML5
+!CSS3
+!Python
+-------------------------------------------------------------------------
 **VenciPython/VenciPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
